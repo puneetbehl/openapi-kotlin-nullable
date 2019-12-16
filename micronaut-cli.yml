@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronuatcore.issues
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
